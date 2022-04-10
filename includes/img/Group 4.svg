@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="22.713" height="18.17" viewBox="0 0 22.713 18.17">
+  <defs>
+    <filter id="__TEMP__SVG__" x="0" y="0" width="22.713" height="18.17" filterUnits="userSpaceOnUse">
+      <feOffset dx="1" dy="-1" input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_4" data-name="Group 4" transform="translate(-6 -78.727)">
+    <g data-type="innerShadowGroup">
+      <path id="__TEMP__SVG__2" data-name="__TEMP__SVG__" d="M4.771,11.814V20.9h18.17V11.814l-9.085,3.407Zm0-4.543V9.543l9.085,3.407,9.085-3.407V7.271ZM4.771,5h18.17a2.271,2.271,0,0,1,2.271,2.271V20.9a2.271,2.271,0,0,1-2.271,2.271H4.771A2.271,2.271,0,0,1,2.5,20.9V7.271A2.271,2.271,0,0,1,4.771,5Z" transform="translate(3.5 73.727)" fill="#1d1d1d"/>
+      <g transform="matrix(1, 0, 0, 1, 6, 78.73)" filter="url(#__TEMP__SVG__)">
+        <path id="__TEMP__SVG__3" data-name="__TEMP__SVG__" d="M4.771,11.814V20.9h18.17V11.814l-9.085,3.407Zm0-4.543V9.543l9.085,3.407,9.085-3.407V7.271ZM4.771,5h18.17a2.271,2.271,0,0,1,2.271,2.271V20.9a2.271,2.271,0,0,1-2.271,2.271H4.771A2.271,2.271,0,0,1,2.5,20.9V7.271A2.271,2.271,0,0,1,4.771,5Z" transform="translate(-2.5 -5)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

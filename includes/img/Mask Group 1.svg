@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.849" height="27.849" viewBox="0 0 27.849 27.849">
+  <defs>
+    <clipPath id="clip-path"/>
+    <filter id="__TEMP__SVG__" x="0" y="0" width="27.849" height="27.849" filterUnits="userSpaceOnUse">
+      <feOffset dx="2" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1" result="blur"/>
+      <feFlood result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(-1 -1.227)" clip-path="url(#clip-path)">
+    <g transform="matrix(1, 0, 0, 1, 1, 1.23)" filter="url(#__TEMP__SVG__)">
+      <path id="__TEMP__SVG__2" data-name="__TEMP__SVG__" d="M16.425,2.5A14.1,14.1,0,0,0,2.5,16.778a14.244,14.244,0,0,0,9.522,13.547c.7.125.956-.3.956-.68,0-.338-.018-1.462-.018-2.659-3.5.662-4.4-.874-4.681-1.678a5.2,5.2,0,0,0-1.427-2.017c-.487-.267-1.184-.928-.018-.945a2.789,2.789,0,0,1,2.142,1.463,2.934,2.934,0,0,0,4.055,1.177,3.032,3.032,0,0,1,.888-1.909c-3.1-.357-6.336-1.589-6.336-7.05A5.639,5.639,0,0,1,9.01,12.189a5.251,5.251,0,0,1,.139-3.784s1.166-.374,3.829,1.465a12.809,12.809,0,0,1,6.962,0C22.6,8.013,23.77,8.407,23.77,8.407a5.251,5.251,0,0,1,.139,3.784,5.6,5.6,0,0,1,1.427,3.836c0,5.48-3.255,6.693-6.352,7.05a3.428,3.428,0,0,1,.94,2.641c0,1.909-.018,3.444-.018,3.926,0,.374.262.82.958.677a14.277,14.277,0,0,0,9.485-13.544A14.1,14.1,0,0,0,16.425,2.5Z" transform="translate(-2.5 -2.5)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
