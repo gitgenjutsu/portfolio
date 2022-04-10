@@ -1,0 +1,34 @@
+
+.cursor {
+    position: fixed;
+    width: 40px;
+    height: 40px;
+    border: 1px solid #c6c6c6;
+    border-radius: 50%;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    opacity: 1;
+    background-color: rgba(120, 120, 120, 0);
+    border-width: 2px;
+    transform-origin: center;
+}
+
+.cursor-2 {
+    position: fixed;
+    width: 5px;
+    height: 5px;
+    border: 1px solid #15E587;
+    border-radius: 50%;
+    left: 0;
+    top: 0;
+    pointer-events: none;
+    transform: translate(-50%, -50%);
+    z-index: 1;
+    transition: .11s;
+    opacity: 1;
+    border-width: 0px;
+    background-color: #15E587;
+}
